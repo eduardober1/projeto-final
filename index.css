@@ -1,0 +1,11 @@
+body {
+
+    background-image: url(./luffy.jpg); /*imagem por agora*/
+    background-repeat: no-repeat; /* preciso de imagem maior*/
+}
+
+img {
+
+    width: max-content;
+
+}
