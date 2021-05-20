@@ -1,11 +1,24 @@
 body {
 
-    background-image: url(./luffy.jpg); /*imagem por agora*/
-    background-repeat: no-repeat; /* preciso de imagem maior*/
+    background-color: rgb(39, 66, 219);/*imagem por agora*/ /* falta o logo no h1 background-image: url(./gamin.jpg); css*/
+    background-repeat: no-repeat; /* preciso de imagem maior*/ /* html imagem <img src="gamin.jpg" alt=""> */
+    color: white;
+    margin: 0;
 }
 
 img {
 
     width: max-content;
+    width: 1000px;
+}
 
+h1 { background-image: url( ./lol.jpg);
+    background-repeat: no-repeat;
+    background-color: rgb(34, 104, 196); /* color da barra  roxo  background-color: rgb(74, 32, 189)*/
+
+   padding-top: 50px;
+   padding-bottom: 70px;
+   padding-left: 320px;
+   margin-top: 0;
+  
 }
