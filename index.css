@@ -1,24 +1,35 @@
 body {
 
-    background-color: rgb(39, 66, 219);/*imagem por agora*/ /* falta o logo no h1 background-image: url(./gamin.jpg); css*/
-    background-repeat: no-repeat; /* preciso de imagem maior*/ /* html imagem <img src="gamin.jpg" alt=""> */
+    background-image: url(./wp.png);
+    background-repeat: no-repeat; 
     color: white;
     margin: 0;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
 }
 
-img {
 
-    width: max-content;
-    width: 1000px;
-}
-
-h1 { background-image: url( ./lol.jpg);
-    background-repeat: no-repeat;
-    background-color: rgb(34, 104, 196); /* color da barra  roxo  background-color: rgb(74, 32, 189)*/
-
+h1 { 
+    
    padding-top: 50px;
-   padding-bottom: 70px;
-   padding-left: 320px;
+   padding-bottom: 50px;
+   padding-left: 50px;
    margin-top: 0;
-  
+   font-size: 45px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+P {
+
+    color: white;
+    padding-left: 200px;
+    font-family:cursive;
+    font-size: 25px;
+}
+
+a{
+
+    text-decoration: none;
 }
