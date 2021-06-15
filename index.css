@@ -26,11 +26,16 @@ h1 {
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+h2 {
+
+font-size: 15px;
+
+}
 
 P {
 
     color: white;
-    padding-left: 200px;
+    padding-left: 100px;
     font-family:cursive;
     font-size: 25px;
 }
