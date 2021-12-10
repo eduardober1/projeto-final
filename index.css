@@ -28,8 +28,19 @@ h1 {
 
 h2 {
 
-font-size: 15px;
+color: white;
+    padding-left: 100px;
+    font-family:cursive;
+    font-size: 25px;
 
+}
+
+h3 {
+    
+    color: white;
+    font-family:cursive;
+    font-size: 25px;
+    
 }
 
 P {
